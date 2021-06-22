@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Casnode Blog</title>
+        <link>https://casnode.org/fr/blog</link>
+        <description>Casnode Blog</description>
+        <lastBuildDate>Tue, 22 Jun 2021 02:44:57 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <item>
+            <title><![CDATA[Welcome]]></title>
+            <link>https://casnode.org/fr/blog/welcome</link>
+            <guid>welcome</guid>
+            <pubDate>Tue, 22 Jun 2021 02:44:57 GMT</pubDate>
+            <description><![CDATA[Welcome to Casnode website!]]></description>
+        </item>
+    </channel>
+</rss>
