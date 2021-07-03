@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://casnode.org/ja/blog</id>
+    <title>Casnode Blog</title>
+    <updated>2021-07-03T11:45:10.406Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://casnode.org/ja/blog"/>
+    <subtitle>Casnode Blog</subtitle>
+    <icon>https://casnode.org/ja/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Welcome]]></title>
+        <id>welcome</id>
+        <link href="https://casnode.org/ja/blog/welcome"/>
+        <updated>2021-07-03T11:45:10.406Z</updated>
+        <summary type="html"><![CDATA[Welcome to Casnode website!]]></summary>
+    </entry>
+</feed>

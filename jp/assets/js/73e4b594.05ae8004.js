@@ -1,1 +1,0 @@
-(self.webpackChunkcasnode_website=self.webpackChunkcasnode_website||[]).push([[578],{2424:function(e){"use strict";e.exports=JSON.parse('{"permalink":"/jp/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"previousPage":null,"nextPage":null,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
