@@ -4,14 +4,14 @@
         <title>Casnode Blog</title>
         <link>https://casnode.org/blog</link>
         <description>Casnode Blog</description>
-        <lastBuildDate>Tue, 24 Aug 2021 02:44:03 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Aug 2021 04:27:31 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://casnode.org/blog/welcome</link>
             <guid>welcome</guid>
-            <pubDate>Tue, 24 Aug 2021 02:44:03 GMT</pubDate>
+            <pubDate>Thu, 26 Aug 2021 04:27:31 GMT</pubDate>
             <description><![CDATA[Welcome to Casnode website!]]></description>
         </item>
     </channel>
