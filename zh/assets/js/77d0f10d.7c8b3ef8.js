@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasnode_website=self.webpackChunkcasnode_website||[]).push([[234],{8237:function(s){s.exports=JSON.parse('{"allTagsPath":"/zh/blog/tags","slug":"/zh/blog/tags/\u6b22\u8fce","name":"\u6b22\u8fce","count":1,"permalink":"/zh/blog/tags/\u6b22\u8fce"}')}}]);
