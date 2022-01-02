@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasnode_website=self.webpackChunkcasnode_website||[]).push([[489],{9956:function(e){e.exports=JSON.parse('{"allTagsPath":"/fr/blog/tags","slug":"/fr/blog/tags/bienvenu","name":"bienvenu","count":1,"permalink":"/fr/blog/tags/bienvenu"}')}}]);
