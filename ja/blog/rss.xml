@@ -4,14 +4,14 @@
         <title>Casnode Blog</title>
         <link>https://casnode.org/ja/blog</link>
         <description>Casnode Blog</description>
-        <lastBuildDate>Sun, 13 Feb 2022 12:50:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Mar 2022 12:20:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[ようこそ]]></title>
             <link>https://casnode.org/ja/blog/welcomes</link>
             <guid>/welcomes</guid>
-            <pubDate>Sun, 13 Feb 2022 12:50:50 GMT</pubDate>
+            <pubDate>Sat, 05 Mar 2022 12:20:50 GMT</pubDate>
             <description><![CDATA[Casnodeウェブサイトへようこそ！]]></description>
             <content:encoded><![CDATA[<p>Casnodeウェブサイトへようこそ！</p><p>テクニカルドキュメントやCasnodeのAPIはこちらからご覧いただけます。</p>]]></content:encoded>
         </item>
