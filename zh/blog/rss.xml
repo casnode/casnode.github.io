@@ -4,14 +4,14 @@
         <title>Casnode Blog</title>
         <link>https://casnode.org/zh/blog</link>
         <description>Casnode Blog</description>
-        <lastBuildDate>Sat, 09 Apr 2022 06:35:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 09:23:54 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[欢迎使用]]></title>
             <link>https://casnode.org/zh/blog/欢迎</link>
             <guid>/欢迎</guid>
-            <pubDate>Sat, 09 Apr 2022 06:35:13 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2022 09:23:54 GMT</pubDate>
             <description><![CDATA[欢迎使用 Casnode 网站 ！]]></description>
             <content:encoded><![CDATA[<p>欢迎使用 Casnode 网站 ！</p><p>您可以在这里找到技术文档和 Casnode API！</p>]]></content:encoded>
         </item>
