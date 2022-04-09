@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/"
                        xmlns:moz="http://www.mozilla.org/2006/browser/search/">
-  <ShortName>Casnode</ShortName>
-  <Description>Search Casnode</Description>
+  <ShortName>Casnode · Next-generation forum software based on Go and React</ShortName>
+  <Description>Search Casnode · Next-generation forum software based on Go and React</Description>
   <InputEncoding>UTF-8</InputEncoding>
   <Image width="16" height="16" type="image/x-icon">https://casnode.org/de/img/favicon.ico</Image>
   <Url type="text/html" method="get" template="https://casnode.org/de/search?q={searchTerms}"/>

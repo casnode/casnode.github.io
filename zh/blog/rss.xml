@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Casnode Blog</title>
+        <title>Casnode · Next-generation forum software based on Go and React Blog</title>
         <link>https://casnode.org/zh/blog</link>
-        <description>Casnode Blog</description>
-        <lastBuildDate>Sat, 09 Apr 2022 12:16:38 GMT</lastBuildDate>
+        <description>Casnode · Next-generation forum software based on Go and React Blog</description>
+        <lastBuildDate>Sat, 09 Apr 2022 12:26:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[欢迎使用]]></title>
             <link>https://casnode.org/zh/blog/欢迎</link>
             <guid>/欢迎</guid>
-            <pubDate>Sat, 09 Apr 2022 12:16:38 GMT</pubDate>
+            <pubDate>Sat, 09 Apr 2022 12:26:56 GMT</pubDate>
             <description><![CDATA[欢迎使用 Casnode 网站 ！]]></description>
             <content:encoded><![CDATA[<p>欢迎使用 Casnode 网站 ！</p><p>您可以在这里找到技术文档和 Casnode API！</p>]]></content:encoded>
         </item>
