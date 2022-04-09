@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://casnode.org/fr/blog</id>
     <title>Casnode Blog</title>
-    <updated>2022-04-09T06:10:26.949Z</updated>
+    <updated>2022-04-09T06:35:13.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://casnode.org/fr/blog"/>
     <subtitle>Casnode Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Bienvenue]]></title>
         <id>/bienvenue</id>
         <link href="https://casnode.org/fr/blog/bienvenue"/>
-        <updated>2022-04-09T06:10:26.949Z</updated>
+        <updated>2022-04-09T06:35:13.445Z</updated>
         <summary type="html"><![CDATA[Bienvenue sur le site de Casnode!]]></summary>
         <content type="html"><![CDATA[<p>Bienvenue sur le site de Casnode!</p><p>Vous pouvez trouver des documents techniques et des API Casnode ici !</p>]]></content>
         <author>
