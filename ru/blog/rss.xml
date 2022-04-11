@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <channel>
-        <title>Casnode · Next-generation forum software based on Go and React Blog</title>
+        <title>Casnode · A beautiful and simple next-generation forum software based on Go and React Blog</title>
         <link>https://casnode.org/ru/blog</link>
-        <description>Casnode · Next-generation forum software based on Go and React Blog</description>
-        <lastBuildDate>Sun, 10 Apr 2022 13:34:04 GMT</lastBuildDate>
+        <description>Casnode · A beautiful and simple next-generation forum software based on Go and React Blog</description>
+        <lastBuildDate>Mon, 11 Apr 2022 01:29:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Добро пожаловать]]></title>
             <link>https://casnode.org/ru/blog/welcome</link>
             <guid>/welcome</guid>
-            <pubDate>Sun, 10 Apr 2022 13:34:04 GMT</pubDate>
+            <pubDate>Mon, 11 Apr 2022 01:29:17 GMT</pubDate>
             <description><![CDATA[Добро пожаловать на сайт Casnode !]]></description>
             <content:encoded><![CDATA[<p>Добро пожаловать на сайт Casnode !</p><p>Технические документы и Casnode API находятся здесь!</p>]]></content:encoded>
         </item>
