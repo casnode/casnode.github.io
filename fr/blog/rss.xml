@@ -4,14 +4,14 @@
         <title>Casnode · A beautiful and simple next-generation forum software based on Go and React Blog</title>
         <link>https://casnode.org/fr/blog</link>
         <description>Casnode · A beautiful and simple next-generation forum software based on Go and React Blog</description>
-        <lastBuildDate>Mon, 18 Apr 2022 00:59:44 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 May 2022 06:44:52 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <item>
             <title><![CDATA[Bienvenue]]></title>
             <link>https://casnode.org/fr/blog/bienvenue</link>
             <guid>/bienvenue</guid>
-            <pubDate>Mon, 18 Apr 2022 00:59:44 GMT</pubDate>
+            <pubDate>Sat, 07 May 2022 06:44:52 GMT</pubDate>
             <description><![CDATA[Bienvenue sur le site de Casnode!]]></description>
             <content:encoded><![CDATA[<p>Bienvenue sur le site de Casnode!</p><p>Vous pouvez trouver des documents techniques et des API Casnode ici !</p>]]></content:encoded>
         </item>
