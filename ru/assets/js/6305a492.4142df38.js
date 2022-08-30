@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasnode_website=self.webpackChunkcasnode_website||[]).push([[734],{7467:function(e){e.exports=JSON.parse('{"label":"\u043f\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0435","permalink":"/ru/blog/tags/\u043f\u0440\u0438\u0432\u0435\u0442\u0441\u0442\u0432\u0438\u0435","allTagsPath":"/ru/blog/tags","count":1}')}}]);
