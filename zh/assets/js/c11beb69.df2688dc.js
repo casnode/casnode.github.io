@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasnode_website=self.webpackChunkcasnode_website||[]).push([[9931],{561:e=>{e.exports=JSON.parse('{"label":"casnode","permalink":"/zh/blog/tags/casnode","allTagsPath":"/zh/blog/tags","count":1}')}}]);

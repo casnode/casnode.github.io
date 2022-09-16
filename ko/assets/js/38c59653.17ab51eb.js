@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkcasnode_website=self.webpackChunkcasnode_website||[]).push([[2172],{1620:e=>{e.exports=JSON.parse('{"label":"welcome","permalink":"/ko/blog/tags/welcome","allTagsPath":"/ko/blog/tags","count":1}')}}]);
