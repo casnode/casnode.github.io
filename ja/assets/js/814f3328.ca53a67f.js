@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkcasnode_website=self.webpackChunkcasnode_website||[]).push([[2535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"\u3088\u3046\u3053\u305d","permalink":"/ja/blog/welcome"}]}')}}]);
