@@ -4,7 +4,7 @@
         <title>Casnode · Open-source forum with the look of Discourse, built with Go and Next.js Blog</title>
         <link>https://casnode.org/fr/blog</link>
         <description>Casnode · Open-source forum with the look of Discourse, built with Go and Next.js Blog</description>
-        <lastBuildDate>Sat, 31 Oct 2026 18:20:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Nov 2026 12:36:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>fr</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Bienvenue]]></title>
             <link>https://casnode.org/fr/blog/bienvenue</link>
             <guid>https://casnode.org/fr/blog/bienvenue</guid>
-            <pubDate>Sat, 31 Oct 2026 18:20:51 GMT</pubDate>
+            <pubDate>Wed, 18 Nov 2026 12:36:50 GMT</pubDate>
             <description><![CDATA[Bienvenue sur le site de Casnode!]]></description>
             <content:encoded><![CDATA[<p>Bienvenue sur le site de Casnode!</p><p>Vous pouvez trouver des documents techniques et des API Casnode ici !</p>]]></content:encoded>
             <category>casnode</category>
